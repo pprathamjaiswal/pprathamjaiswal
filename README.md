@@ -1,4 +1,5 @@
-### Hi 👋, I'm Pratham Jaiswal
+<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi👋+I+am+Pratham+Jaiswal" width="100%">
+<hr />
 
 <!--
 **pprathamjaiswal/pprathamjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
