@@ -1,6 +1,7 @@
-<img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi👋+I+am+Pratham+Jaiswal" width="100%">
+<img  src="https://readme-typing-svg.herokuapp.com?color=&lines=Hi👋+I'm+Pratham+Jaiswal" width="100%">
 <hr />
-
+A Student and Lerner 🚀 From Mumbai, India completed my undergraduation from Matrushri Kashiben Motilal Patel college in Thakurli, and I am passionate about technology and want to learn & explore new technologies, also I'm  a technology enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web, applications.
+<hr />
 <!--
 **pprathamjaiswal/pprathamjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
