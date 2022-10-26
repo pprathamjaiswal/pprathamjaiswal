@@ -1,6 +1,6 @@
 <img  src="https://readme-typing-svg.herokuapp.com?color=&lines=Hi👋+I'm+Pratham+Jaiswal" width="100%">
 # 💫 About Me:
-<hr />A Student and Lerner 🚀 From Mumbai, India completed my graduation from Matrushri Kashiben Motilal Patel college in Thakurli, and I am passionate about technology and want to learn & explore new technologies, also I'm  a technology enthusiast, competent, well-focused. And I wish to be of full stack developer👨‍💻. I am passionate about building fully functional web applications.<hr />🔭 I’m currently Preparing for Placements!.<br>🌱 I am passionate about technology and  to learn & explore new technologies<br>💬 Ask me about Good First Issues &  Exciting Projects to work on.<br> 📫 How to reach me : linkedin,E-mail. <br> ✉ E-Mail: pratham.m.jaiswal@gmail.com<br><hr/>
+<hr />A Student and Lerner 🚀 From Mumbai, India completed my graduation from Matrushri Kashiben Motilal Patel college in Thakurli, and I am passionate about technology and want to learn & explore new technologies, also I'm  a technology enthusiast, competent, well-focused. And I wish to be a full stack developer👨‍💻. I am passionate about building fully functional web applications.<hr />🔭 I’m currently Preparing for Placements!.<br>🌱 I am passionate about technology and  to learn & explore new technologies<br>💬 Ask me about Good First Issues &  Exciting Projects to work on.<br> 📫 How to reach me : linkedin,E-mail. <br> ✉ E-Mail: pratham.m.jaiswal@gmail.com<br><hr/>
 
 
 ## 🌐 Socials:
