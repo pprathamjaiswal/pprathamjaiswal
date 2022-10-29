@@ -3,7 +3,7 @@
 <hr />A Student and Lerner 🚀 From Mumbai, India completed my graduation from Matrushri Kashiben Motilal Patel college in Thakurli, and I am passionate about technology and want to learn & explore new technologies, also I'm  a technology enthusiast, competent, well-focused. And I wish to be a full stack developer👨‍💻. I am passionate about building fully functional web applications.<hr />🔭 I’m currently Preparing for Placements!.<br>🌱 I am passionate about technology and  to learn & explore new technologies<br>💬 Ask me about Good First Issues &  Exciting Projects to work on.<br> 📫 How to reach me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-jaiswal-552168203/) 
-[![Gmail](https://img.shields.io/badge/gmail-%2320232a.svg?style=flat&logo=gmail&logoColor=%red)](https://www.gmail.com/pratham.m.jaiswal@gmail.com/)
+[![Gmail](https://img.shields.io/badge/gmail-%2320232a.svg?style=flat&logo=gmail&logoColor=%red)]([https://www.gmail.com/pratham.m.jaiswal@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)/)
 <br> ✉ E-Mail: pratham.m.jaiswal@gmail.com<br><hr/>
 
 
