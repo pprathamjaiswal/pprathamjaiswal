@@ -9,8 +9,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pratham.jaiswal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-jaiswal-552168203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pratham48329874) 
+[![Gmail](https://img.shields.io/badge/gmail-%2320232a.svg?style=flat&logo=gmail&logoColor=%red)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pratham.m.jaiswal@gmail.com)
 [![](https://visitcount.itsvg.in/api?id=pprathamjaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Gmail](https://img.shields.io/badge/gmail-%2320232a.svg?style=flat&logo=gmail&logoColor=%red)](https://www.gmail.com/pratham.m.jaiswal@gmail.com/)
 
 
 
