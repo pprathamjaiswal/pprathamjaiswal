@@ -70,8 +70,6 @@ Modern web app using React + Node.js
 
 ## 🐍 Contribution Graph
 
-## 🐍 Contribution Graph  
-
 ![snake gif](https://github.com/pprathamjaiswal/pprathamjaiswal/blob/output/github-contribution-grid-snake.svg)
 
 
