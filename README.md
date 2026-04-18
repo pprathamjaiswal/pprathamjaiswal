@@ -1,33 +1,45 @@
-# Pratham Jaiswal
+# 👨‍💻 Pratham Jaiswal
 
-Full Stack Developer (in progress) • Mumbai, India
-
----
-
-## About
-
-Software engineer focused on building scalable web applications.
-Currently preparing for placements and improving DSA + system design.
+🚀 Aspiring Full Stack Developer
 
 ---
 
-## Skills
+## 🚀 What I Do
 
-Frontend: React, Next.js, Tailwind
-Backend: Node.js, Firebase
-Languages: JavaScript, TypeScript, Java, C++
-Database: MySQL
+I build modern web applications with focus on performance and scalability.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-* Project Name → https://github.com/pprathamjaiswal/project
-* Project Name → https://github.com/pprathamjaiswal/project
+React • Next.js • Node.js • TypeScript • MySQL • Firebase
 
 ---
 
-## Contact
+## 📌 Featured Work
 
-LinkedIn → https://linkedin.com/in/pratham-jaiswal-552168203
-Email → [pratham.m.jaiswal@gmail.com](mailto:pratham.m.jaiswal@gmail.com)
+### 🔹 Project One
+
+Built a full-stack application with authentication and API integration
+🔗 https://github.com/pprathamjaiswal/project
+
+### 🔹 Project Two
+
+Solved real-world problem with clean UI and backend logic
+🔗 https://github.com/pprathamjaiswal/project
+
+---
+
+## 📊 Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=pprathamjaiswal\&show_icons=true)
+
+---
+
+## 🤝 Connect
+
+LinkedIn • Email • Instagram
+
+---
+
+⭐ Open for opportunities
